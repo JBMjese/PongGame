@@ -12,7 +12,9 @@ No Scoring or Levels: Relax and enjoy the game without the pressure of accumulat
 
 #Installation
 1. Clone this repository to your local machine.
+   
 # git clone https://github.com/your_username/PongGame.git
+
 2. Open the index.html file in your favorite web browser.
 3. Start playing and have fun!
 
