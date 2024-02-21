@@ -22,4 +22,4 @@ git clone https://github.com/your_username/PongGame.git
 All contributions are welcome! If you have ideas for improvements or encounter any issues, feel free to open an issue or submit a pull request.
 
 # Author
-This project was created with ❤️ by Jesenia Bernal (linkedin.com/in/jesenia-bernal-mogollon-9b70b7169)  using Phaser, a powerful JavaScript game development framework.
+This project was created with ❤️ by Jesenia Bernal (https://www.linkedin.com/in/jesenia-bernal-mogollon-9b70b7169/)  using Phaser, a powerful JavaScript game development framework.
