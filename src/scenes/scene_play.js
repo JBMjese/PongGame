@@ -1,3 +1,4 @@
+
 import Palas from "../gameobjects/Palas.js";
 class Scene_play extends Phaser.Scene {
   constructor() {
