@@ -1,7 +1,8 @@
 # PongGame: Experience the Classic Pong Game in a Modern Twist!
 
 :rocket:
-!Welcome to PongGame, a minimalist yet exciting version of the classic Pong game!(assets/Pomg.png)
+!Welcome to PongGame, a minimalist yet exciting version of the classic Pong game 
+![Pong](assets/Pong.png)
 
 # Description
 ## dfrtrytgytygPongGame is a stripped-down version of the iconic Pong game, designed to offer a fun and accessible experience for players of all ages and skill levels. Developed with Phaser, this project focuses on the essence of the original game, delivering simple yet satisfying mechanics.
