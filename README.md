@@ -1,15 +1,15 @@
-# PongGame: Experience the Classic Pong Game in a Modern Twist!
+# PongGame: Experience the Classic Pong Game in a Modern Twist! :diamonds: :diamonds: :diamonds:
 
-:rocket:
-!Welcome to PongGame, a minimalist yet exciting version of the classic Pong game 
-![Pong](assets/Pong.png)
+
+!Welcome to PongGame :stuck_out_tongue:, a minimalist yet exciting version of the classic Pong game 
+![Pong](assets/GifPong.mp4)
 
 # Description
-## dfrtrytgytygPongGame is a stripped-down version of the iconic Pong game, designed to offer a fun and accessible experience for players of all ages and skill levels. Developed with Phaser, this project focuses on the essence of the original game, delivering simple yet satisfying mechanics.
+## PongGame is a stripped-down version of the iconic Pong game, designed to offer a fun and accessible experience for players of all ages and skill levels. Developed with Phaser, this project focuses on the essence of the original game, delivering simple yet satisfying mechanics.
 
 # Key Features
-- Simple Gameplay: Control the left and right paddles with assigned buttons to bounce the ball.
-- Realistic Physics: Enjoy precise simulation of ball physics as it bounces between paddles and walls.
+- Simple Gameplay: :video_game: Control the left and right paddles with assigned buttons to bounce the ball :red_circle:.
+- Realistic Physics: :inbox_tray: Enjoy precise simulation of ball physics as it bounces between paddles and walls :inbox_tray: .
 - No Scoring or Levels: Relax and enjoy the game without the pressure of accumulating points or facing difficulty levels.
 
 # Installation
