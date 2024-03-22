@@ -10,6 +10,7 @@
 PongGame is a stripped-down version of the iconic Pong game, designed to offer a fun and accessible experience for players of all ages and skill levels. Developed with Phaser, this project focuses on the essence of the original game, delivering simple yet satisfying mechanics.
 
 # Key Features
+
 - Simple Gameplay: : Control the left and right paddles with assigned buttons to bounce the ball :red_circle:.
 - Realistic Physics: :inbox_tray: Enjoy precise simulation of ball physics as it bounces between paddles and walls :inbox_tray: .
 - No Scoring or Levels: Relax and enjoy the game without the pressure of accumulating points or facing difficulty levels.
@@ -23,7 +24,10 @@ PongGame is a stripped-down version of the iconic Pong game, designed to offer a
 3. Start playing and have fun!
 
 # Contribution
+
 All contributions are welcome! If you have ideas for improvements or encounter any issues, feel free to open an issue or submit a pull request.
 
 # Author
-This project was created with ❤️ by Jesenia Bernal (https://www.linkedin.com/in/jesenia-bernal-mogollon-9b70b7169/)  using Phaser, a powerful JavaScript game development framework.
+This project was created with ❤️ by Jesenia Bernal  using Phaser, a powerful JavaScript game development framework.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesenia-bernal-mogollon-9b70b7169?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
