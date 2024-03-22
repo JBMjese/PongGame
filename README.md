@@ -6,6 +6,7 @@
 ![Pong](assets/GifPong.mp4)
 
 # video_game: Description video_game:
+
 PongGame is a stripped-down version of the iconic Pong game, designed to offer a fun and accessible experience for players of all ages and skill levels. Developed with Phaser, this project focuses on the essence of the original game, delivering simple yet satisfying mechanics.
 
 # Key Features
@@ -16,7 +17,7 @@ PongGame is a stripped-down version of the iconic Pong game, designed to offer a
 # Installation
 1. Clone this repository to your local machine.
    
-git clone https://github.com/your_username/PongGame.git
+    git clone https://github.com/your_username/PongGame.git
 
 2. Open the index.html file in your favorite web browser.
 3. Start playing and have fun!
