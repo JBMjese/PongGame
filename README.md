@@ -3,7 +3,7 @@
 
 !Welcome to PongGame :stuck_out_tongue:, a minimalist yet exciting version of the classic Pong game 
 
-![Pong](assets/GifPong.mp4)
+![Pong](assets/GifPong.gif)
 
 # video_game: Description video_game:
 
